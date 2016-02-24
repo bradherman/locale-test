@@ -1,0 +1,7 @@
+sg:
+  hello: "Hello world"
+  this:
+    page: hello world
+      is:
+        kinda: cool
+        pretty: awesome isn't it?
